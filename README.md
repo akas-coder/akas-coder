@@ -4,16 +4,29 @@
 
 <div align="center">
   
-  <!-- Profile Image - Replace with your actual image URL -->
-  <img src="https://github.com/akas-coder.png" alt="Akash Rauniyar" width="150" height="150" style="border-radius: 50%; border: 3px solid #2E9EF7;"/>
-  
+  <img src="https://github.com/akas-coder.png" 
+       alt="Akash Rauniyar" 
+       width="150" 
+       height="150" 
+       style="border-radius: 50%; border: 3px solid #2E9EF7;"/>
+
+  <h2>Hi 👋 I'm Akash Rauniyar</h2>
   <h3>🚀 Building Scalable Applications with Clean Architecture</h3>
   
-  [![GitHub followers](https://img.shields.io/github/followers/akas-coder?style=social)](https://github.com/akas-coder)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username)
-  [![Email](https://img.shields.io/badge/Email-akashtest144@gmail.com-red?style=flat&logo=gmail)](mailto:akashtest144@gmail.com)
+  <p>
+    <a href="https://github.com/akas-coder">
+      <img src="https://img.shields.io/github/followers/akas-coder?style=social" />
+    </a>
+    <a href="https://www.linkedin.com/in/akash-rauniyar-62866132b/">
+      <img src="https://img.shields.io/badge/LinkedIn-Akash%20Rauniyar-blue?style=flat&logo=linkedin" />
+    </a>
+    <a href="mailto:rauniyarakash144@gmail.com">
+      <img src="https://img.shields.io/badge/Email-rauniyarakash144%40gmail.com-red?style=flat&logo=gmail&logoColor=white" />
+    </a>
+  </p>
   
 </div>
+
 
 ---
 
