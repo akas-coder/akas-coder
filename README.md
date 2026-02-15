@@ -69,16 +69,56 @@ I'm a **technically driven Full Stack Developer** with strong fundamentals in **
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🚌 [Go Ride – Bus Pass Automation System](https://github.com/akas-coder/Go-Ride)
-A comprehensive Spring Boot-based automation system for managing bus pass applications with secure backend logic and seamless database integration.
+### 💬 [Real-Time Chat Application](https://github.com/akas-coder/chat-application)
+A full-stack real-time messaging application with bidirectional WebSocket communication and JWT-based authentication.
 
-**🔧 Tech Stack:** Java • Spring Boot • MySQL • Thymeleaf  
+**🔧 Tech Stack:** React (Vite) • Spring Boot • JWT • WebSocket • MySQL • Socket.io  
 **✨ Highlights:**
-- Complete CRUD operations with JPA repositories
-- Form validation & secure data handling
-- Production-ready database persistence layer
+- Real-time messaging with WebSocket integration supporting **100+ concurrent users**
+- Message latency under **50ms** with optimized backend processing
+- User authentication and authorization using JWT tokens
+- Message persistence and online status indicators
+- Responsive UI built with React and Material-UI
+
+<div align="left">
+  <a href="https://github.com/akas-coder/chat-application">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 🛒 [ECO-BAZAAR-X](https://github.com/akas-coder/ECO-BAZAAR-X)
+A scalable eco-focused e-commerce platform with complete end-to-end flow from UI to database.
+
+**🔧 Tech Stack:** React (Vite) • Spring Boot • JWT • MySQL • REST APIs  
+**✨ Highlights:**
+- JWT-based secure authentication and session management
+- Product listing with dynamic filtering and search functionality
+- Complete shopping cart management system with real-time updates
+- Modular monorepo architecture with separate React and Spring Boot services
+- Secure backend with JPA/Hibernate and optimized API response handling
+
+<div align="left">
+  <a href="https://github.com/akas-coder/ECO-BAZAAR-X">
+    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 🚌 [Go Ride – Bus Pass Management System](https://github.com/akas-coder/Go-Ride)
+A web application automating bus pass application and approval processes with efficient transaction handling.
+
+**🔧 Tech Stack:** Spring Boot • Thymeleaf • MySQL • HTML/CSS • Spring Data JPA  
+**✨ Highlights:**
+- User and admin modules with role-based access control
+- CRUD operations for managing users, routes, and passes
+- MySQL database integration using Spring Data JPA
+- Serves **500+ daily transactions** with optimized database queries
+- Complete application workflow from submission to approval
 
 <div align="left">
   <a href="https://github.com/akas-coder/Go-Ride">
@@ -87,41 +127,6 @@ A comprehensive Spring Boot-based automation system for managing bus pass applic
 </div>
 
 ---
-
-### 🍱 [Train Food Ordering System](https://github.com/akas-coder/Foodapp)
-A dynamic web application enabling passengers to order food seamlessly during train journeys with real-time order management.
-
-**🔧 Tech Stack:** JSP • Servlets • MySQL  
-**✨ Highlights:**
-- Advanced order management system
-- MVC architecture implementation
-- Optimized database connectivity
-
-<div align="left">
-  <a href="https://github.com/akas-coder/Foodapp">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
----
-
-### 📝 [Quiz Application](https://github.com/akas-coder/QuizApplication)
-An interactive quiz platform with intelligent question management and engaging user experience powered by Spring Boot.
-
-**🔧 Tech Stack:** Spring Boot • MySQL • Thymeleaf  
-**✨ Highlights:**
-- Dynamic quiz logic engine
-- Database-driven question storage
-- Clean MVC architecture
-
-<div align="left">
-  <a href="https://github.com/akas-coder/QuizApplication">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
----
-
 ## 💼 Professional Experience
 
 ### **IBM – Virtual Internship** | PBEL Program
