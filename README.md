@@ -91,7 +91,7 @@ public class AkashRauniyar {
 
 ## 🧪 Liorix – Premium Perfume E-Commerce Platform
 
-🔗 Live Demo: https://liorix.vercel.app
+🔗 Live Demo: https://perfume-frontend-qj60.onrender.com/
 
 **Tech Stack:** React • Spring Boot • Spring Security • MySQL • Tailwind CSS
 
